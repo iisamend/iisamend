@@ -5,4 +5,5 @@ Meu nome é Isa Mendonça
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
+
 ![BEIJINHOS](https://media.tenor.com/mToCVE3WAEcAAAAM/kiss-mwuah.gif)
